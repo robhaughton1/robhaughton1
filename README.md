@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi, I'm Robert
 
-<!--
-**robhaughton1/robhaughton1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Application Security Engineer focused on building secure systems and owning SAST pipelines.
 
-Here are some ideas to get you started:
+🔐 Core Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Static Application Security Testing (SAST)
+- Secure Code Review & Vulnerability Analysis
+- Security Pipeline Design (CI/CD)
+- Threat Modeling & System Security
+
+🧠 What I Do
+
+- Analyze real world vulnerabilities and write professional reports
+- Build and tune SAST detection rules (Semgrep)
+- Design security pipelines with practical tradeoffs (false positives vs coverage)
+- Develop secure applications and identify weaknesses in code
+
+🔥 Highlighted Projects
+
+- 🔎 SAST Rules Repository – Custom Semgrep rules for detecting real vulnerabilities
+- 💬 Secure Chat Application – Multi feature chat system with security considerations
+- 🧠 Threat Model Project – System level threat analysis and mitigation strategies
+
+🎯 Current Focus
+
+- SAST Ownership (triage, tuning, developer interaction)
+- Security pipeline architecture
+- Preparing for AppSec internship roles
+
+📫 Contact
+
+- Email: robertorhaughton@gmail.com
