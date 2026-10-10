@@ -1,20 +1,4 @@
-👋 Hi, I'm Robert
-
-Aspiring Application Security Engineer focused on building secure systems and owning SAST pipelines.
-
-Core Focus
-
-- Static Application Security Testing (SAST)
-- Secure Code Review & Vulnerability Analysis
-- Security Pipeline Design (CI/CD)
-- Threat Modeling & System Security
-
-What I Do
-
-- Analyze real world vulnerabilities and write professional reports
-- Build and tune SAST detection rules (Semgrep)
-- Design security pipelines with practical tradeoffs (false positives vs coverage)
-- Develop secure applications and identify weaknesses in code
+👋 Hi, I'm Robert an Aspiring Application Security Engineer
 
 Highlighted Projects
 
